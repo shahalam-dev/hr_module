@@ -1,0 +1,27 @@
+2023-10-11 09:01:42|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(53): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:02:19|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(53): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:05:51|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(53): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:06:37|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(54): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:07:19|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(54): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:09:24|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(54): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:10:54|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(46): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:11:29|EBOSS|root|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(46): PDODB->__construct(Array)
+#2 {main}
+2023-10-11 09:13:06|EBOSS|AI001|Exception: SQLSTATE[HY000] [1045] Access denied for user '<development database user name>'@'10.0.96.5' (using password: YES)|Trace: #0 /var/www/html/assets/core/sql_pdo.php(24): PDO->__construct('mysql:host=172....', '<development da...', Object(SensitiveParameterValue))
+#1 /var/www/html/api/v1/staff/staff.php(46): PDODB->__construct(Array)
+#2 {main}
